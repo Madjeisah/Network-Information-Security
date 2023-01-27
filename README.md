@@ -42,7 +42,7 @@ There will be a final project at the end of the course (groups of 2-3 people), a
 ### Grading
 |ACTIVITIES	                      | PERCENTAGES|
 |:---                             |:---        |
-|2 Quizzes	                      | 20%        |
+|2 Quizzes	                       | 20%        |
 |Lab Exercises                    |	35%        |
 |Final Project and Presentation   |	25%        |
 |Homework and Class Participation |	20%        | 
