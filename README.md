@@ -18,6 +18,7 @@ Lectures: A session / week, 3 hours
 
 ### Prerequisites
 * Data Communications & Networks
+* Algorithms
 * Web Technology
 
 ### Description
