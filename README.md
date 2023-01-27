@@ -104,7 +104,7 @@ This section contains external resources related to the materials we will use in
 
 ### Exploiting Hardware Bugs
 * [Bug Attacks (PDF) on RSA](https://link.springer.com/chapter/10.1007/978-3-540-85174-5_13), by Eli Biham, Yaniv Carmeli, and Adi Shamir.
-* [Using Memory Errors to Attack a Virtual Machine (PDF)] by Sudhakar Govindavajhala and Andrew Appel.
+* [Using Memory Errors to Attack a Virtual Machine (PDF)](https://www.cs.princeton.edu/~appel/papers/memerr.pdf) by Sudhakar Govindavajhala and Andrew Appel.
 
 ### Mobile Devices
 * [iOS security (PDF)](http://css.csail.mit.edu/6.858/2014/readings/ios-security-may12.pdf)
