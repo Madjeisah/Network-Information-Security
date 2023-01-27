@@ -39,7 +39,7 @@ There are 5 labs and a final project in this course. Labs will look like real-wo
 
 There will be a final project at the end of the course (groups of 2-3 people), and presentations during the last week of class. Think of projects you’d like to work on as you’re reading papers and chapters. Either attack or defense-oriented projects are possible, Hacking the a Cipher, application authentecaion. It is ok to combine this project with other class projects or your own research.
 
-### Grading
+### Grading System
 |ACTIVITIES	                      | PERCENTAGES|
 |:---                             |:---        |
 |2 Quizzes	                       | 20%        |
