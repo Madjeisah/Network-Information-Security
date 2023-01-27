@@ -5,7 +5,7 @@ Network Information Security Course - fall 2023
 1. [Syllabus](#syllabus)
 2. [Calendar](#calendar)
 3. [Readings](#readings)
-4. [Labs / Assignments](#labs-/-assignments)
+4. [Labs and Assignments](#labs-and-assignments)
 5. [Final Project](#final-project)
 6. [Resources](#resources)
 
@@ -60,7 +60,7 @@ You may learn how to attack systems so that you know how to defend them. Just be
 
 ## Readings
 
-## Labs / Assignments
+## Labs and Assignments
 
 ## Final Project
 
