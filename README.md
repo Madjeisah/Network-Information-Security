@@ -1,5 +1,5 @@
 # Network-Information-Security<a name="TOP"></a>
-Network Information Security Course - fall 2023
+Network and Information Security Course - Spring 2023
 
 ## Table of Contents
 1. [Syllabus](#syllabus)
