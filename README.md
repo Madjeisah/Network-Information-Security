@@ -14,7 +14,7 @@ Network and Information Security Course - Spring 2023
 This course makes use of any programming language and computing environment of your choice.
 
 ### Course Meeting Times
-Lectures: A session / week, 3 hours
+Lectures: A session / week, 3 credit hours
 
 ### Prerequisites
 * Data Communications & Networks
