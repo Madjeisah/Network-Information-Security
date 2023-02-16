@@ -69,7 +69,7 @@ You may learn how to attack systems so that you know how to defend them. Just be
 This section contains external resources related to the materials we will use in this class.
 
 ### Computer Network Security
-* Guide to Computer Network Security, 4th edition. Springer, 2017. ISBN 978-3-319-55605-5. [Resource](https://github.com/Madjeisah/Network-Information-Security/blob/master/2017_Book_GuideToComputerNetworkSecurity.pdf)
+* Joseph Migga Kizza. Guide to Computer Network Security, 4th edition. Springer, 2017. ISBN 978-3-319-55605-5. [Resource](https://github.com/Madjeisah/Network-Information-Security/blob/master/2017_Book_GuideToComputerNetworkSecurity.pdf)
 
 ### Cryptography
 * William Stallings. Cryptography and Network Securuty: Principle and Practice, 5th edition. Pearson, 2010. ISBN-10: 0136097049. [Resource](https://github.com/Madjeisah/Network-Information-Security/blob/master/Cryptography_and_Network_Security-Prins_and_Pract._5th_ed.pdf)
